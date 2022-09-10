@@ -1,8 +1,3 @@
-/* fonts 
-font-family: 'Palanquin', sans-serif;
-font-family: 'Staatliches', cursive;
-*/
-
 * {
   margin: 0;
   padding: 0;
@@ -14,7 +9,6 @@ font-family: 'Staatliches', cursive;
   --ff-body: 'Palanquin', sans-serif;
   --ff-heading-desk:'Roboto', sans-serif;
 
-  --hue: 250;
   --bg-primary: hsl(233, 100%, 97%); 
   --bg-secondary: hsl(218, 17%, 62%);
   --bg-h1: hsl(275, 18%, 79%);
